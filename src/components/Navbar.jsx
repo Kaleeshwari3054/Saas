@@ -5,11 +5,11 @@ const Navbar = () => {
   const { user, logout, isAuthenticated } = useAuth();
 
   return (
-    <nav className="navbar navbar-expand-lg navbar-dark navbar-custom">
+    <nav className="navbar navbar-expand-lg navbar-light navbar-custom">
       <div className="container-fluid">
         <Link className="navbar-brand" to="/">
-          <i className="fas fa-project-diagram me-2"></i>
-          ProjectHub
+          <i className="fas fa-cube me-2"></i>
+          Yntra
         </Link>
         <button
           className="navbar-toggler"

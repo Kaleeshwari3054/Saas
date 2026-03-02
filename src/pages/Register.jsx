@@ -82,8 +82,8 @@ const Register = () => {
               <Card.Body className="p-5">
                 <div className="text-center mb-4">
                   <h2 className="mb-3">
-                    <i className="fas fa-project-diagram text-primary me-2"></i>
-                    ProjectHub
+                    <i className="fas fa-cube text-primary me-2"></i>
+                    Yntra
                   </h2>
                   <p className="text-muted">Create your account</p>
                 </div>
